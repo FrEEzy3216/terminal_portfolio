@@ -1,0 +1,1210 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 1A31-81BB
+D:.
++---node_modules
+¦   +---.bin
+¦   +---.vite
+¦   ¦   +---deps
+¦   +---.vite-temp
+¦   +---@ampproject
+¦   ¦   +---remapping
+¦   ¦       +---dist
+¦   ¦           +---types
+¦   +---@babel
+¦   ¦   +---code-frame
+¦   ¦   ¦   +---lib
+¦   ¦   +---compat-data
+¦   ¦   ¦   +---data
+¦   ¦   +---core
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦   +---files
+¦   ¦   ¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   ¦   +---validation
+¦   ¦   ¦   ¦   +---errors
+¦   ¦   ¦   ¦   +---gensync-utils
+¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---tools
+¦   ¦   ¦   ¦   +---transformation
+¦   ¦   ¦   ¦   ¦   +---file
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---vendor
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---config
+¦   ¦   ¦           +---files
+¦   ¦   +---generator
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---generators
+¦   ¦   ¦       +---node
+¦   ¦   +---helper-compilation-targets
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-globals
+¦   ¦   ¦   +---data
+¦   ¦   +---helper-module-imports
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-module-transforms
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-plugin-utils
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-string-parser
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-identifier
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-option
+¦   ¦   ¦   +---lib
+¦   ¦   +---helpers
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---helpers
+¦   ¦   +---parser
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---typings
+¦   ¦   +---plugin-transform-react-jsx-self
+¦   ¦   ¦   +---lib
+¦   ¦   +---plugin-transform-react-jsx-source
+¦   ¦   ¦   +---lib
+¦   ¦   +---runtime
+¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---regenerator
+¦   ¦   +---template
+¦   ¦   ¦   +---lib
+¦   ¦   +---traverse
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---path
+¦   ¦   ¦       ¦   +---inference
+¦   ¦   ¦       ¦   +---lib
+¦   ¦   ¦       +---scope
+¦   ¦   ¦           +---lib
+¦   ¦   +---types
+¦   ¦       +---lib
+¦   ¦           +---asserts
+¦   ¦           ¦   +---generated
+¦   ¦           +---ast-types
+¦   ¦           ¦   +---generated
+¦   ¦           +---builders
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---generated
+¦   ¦           ¦   +---react
+¦   ¦           ¦   +---typescript
+¦   ¦           +---clone
+¦   ¦           +---comments
+¦   ¦           +---constants
+¦   ¦           ¦   +---generated
+¦   ¦           +---converters
+¦   ¦           +---definitions
+¦   ¦           +---modifications
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---typescript
+¦   ¦           +---retrievers
+¦   ¦           +---traverse
+¦   ¦           +---utils
+¦   ¦           ¦   +---react
+¦   ¦           +---validators
+¦   ¦               +---generated
+¦   ¦               +---react
+¦   +---@dimforge
+¦   ¦   +---rapier3d-compat
+¦   ¦       +---control
+¦   ¦       +---dynamics
+¦   ¦       +---geometry
+¦   ¦       +---pipeline
+¦   +---@esbuild
+¦   ¦   +---win32-x64
+¦   +---@eslint
+¦   ¦   +---config-array
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       ¦   +---std__path
+¦   ¦   ¦       +---esm
+¦   ¦   ¦           +---std__path
+¦   ¦   +---config-helpers
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       +---esm
+¦   ¦   +---core
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       +---esm
+¦   ¦   +---eslintrc
+¦   ¦   ¦   +---conf
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---config-array
+¦   ¦   ¦   ¦   +---shared
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---globals
+¦   ¦   +---js
+¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   +---configs
+¦   ¦   ¦   +---types
+¦   ¦   +---object-schema
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       +---esm
+¦   ¦   +---plugin-kit
+¦   ¦       +---dist
+¦   ¦       ¦   +---cjs
+¦   ¦       ¦   +---esm
+¦   ¦       +---node_modules
+¦   ¦           +---@eslint
+¦   ¦               +---core
+¦   ¦                   +---dist
+¦   ¦                       +---cjs
+¦   ¦                       +---esm
+¦   +---@eslint-community
+¦   ¦   +---eslint-utils
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---eslint-visitor-keys
+¦   ¦   ¦           +---dist
+¦   ¦   ¦           +---lib
+¦   ¦   +---regexpp
+¦   +---@google
+¦   ¦   +---generative-ai
+¦   ¦       +---dist
+¦   ¦       ¦   +---scripts
+¦   ¦       ¦   +---server
+¦   ¦       ¦   ¦   +---scripts
+¦   ¦       ¦   ¦   +---src
+¦   ¦       ¦   ¦   ¦   +---methods
+¦   ¦       ¦   ¦   ¦   +---models
+¦   ¦       ¦   ¦   ¦   +---requests
+¦   ¦       ¦   ¦   ¦   +---server
+¦   ¦       ¦   ¦   +---types
+¦   ¦       ¦   ¦       +---server
+¦   ¦       ¦   +---src
+¦   ¦       ¦   ¦   +---methods
+¦   ¦       ¦   ¦   +---models
+¦   ¦       ¦   ¦   +---requests
+¦   ¦       ¦   ¦   +---server
+¦   ¦       ¦   +---types
+¦   ¦       ¦       +---server
+¦   ¦       +---server
+¦   +---@humanfs
+¦   ¦   +---core
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---src
+¦   ¦   +---node
+¦   ¦       +---dist
+¦   ¦       +---node_modules
+¦   ¦       ¦   +---@humanwhocodes
+¦   ¦       ¦       +---retry
+¦   ¦       ¦           +---dist
+¦   ¦       +---src
+¦   +---@humanwhocodes
+¦   ¦   +---module-importer
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---src
+¦   ¦   +---retry
+¦   ¦       +---dist
+¦   +---@jridgewell
+¦   ¦   +---gen-mapping
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---src
+¦   ¦   ¦   +---types
+¦   ¦   +---resolve-uri
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---sourcemap-codec
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---src
+¦   ¦   ¦   +---types
+¦   ¦   +---trace-mapping
+¦   ¦       +---dist
+¦   ¦       +---src
+¦   ¦       +---types
+¦   +---@mediapipe
+¦   ¦   +---tasks-vision
+¦   ¦       +---wasm
+¦   +---@monogrid
+¦   ¦   +---gainmap-js
+¦   ¦       +---dist
+¦   ¦       ¦   +---core
+¦   ¦       ¦   +---decode
+¦   ¦       ¦   ¦   +---errors
+¦   ¦       ¦   ¦   +---loaders
+¦   ¦       ¦   ¦   +---materials
+¦   ¦       ¦   ¦   +---utils
+¦   ¦       ¦   +---encode
+¦   ¦       ¦   ¦   +---materials
+¦   ¦       ¦   +---libultrahdr
+¦   ¦       +---libultrahdr-wasm
+¦   ¦           +---build
+¦   +---@react-three
+¦   ¦   +---drei
+¦   ¦   ¦   +---core
+¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   +---glsl
+¦   ¦   ¦   +---materials
+¦   ¦   ¦   +---native
+¦   ¦   ¦   +---web
+¦   ¦   ¦       +---pivotControls
+¦   ¦   +---fiber
+¦   ¦       +---dist
+¦   ¦       ¦   +---declarations
+¦   ¦       ¦       +---src
+¦   ¦       ¦           +---core
+¦   ¦       ¦           +---native
+¦   ¦       ¦           +---web
+¦   ¦       +---native
+¦   ¦       ¦   +---dist
+¦   ¦       +---node_modules
+¦   ¦           +---scheduler
+¦   ¦               +---cjs
+¦   +---@rolldown
+¦   ¦   +---pluginutils
+¦   ¦       +---dist
+¦   +---@rollup
+¦   ¦   +---rollup-win32-x64-msvc
+¦   +---@tweenjs
+¦   ¦   +---tween.js
+¦   ¦       +---dist
+¦   +---@types
+¦   ¦   +---babel__core
+¦   ¦   +---babel__generator
+¦   ¦   +---babel__template
+¦   ¦   +---babel__traverse
+¦   ¦   +---draco3d
+¦   ¦   +---estree
+¦   ¦   +---json-schema
+¦   ¦   +---offscreencanvas
+¦   ¦   +---react
+¦   ¦   ¦   +---ts5.0
+¦   ¦   ¦       +---v18
+¦   ¦   ¦           +---ts5.0
+¦   ¦   +---react-dom
+¦   ¦   ¦   +---test-utils
+¦   ¦   +---react-reconciler
+¦   ¦   +---stats.js
+¦   ¦   +---three
+¦   ¦   ¦   +---build
+¦   ¦   ¦   +---examples
+¦   ¦   ¦   ¦   +---jsm
+¦   ¦   ¦   ¦       +---animation
+¦   ¦   ¦   ¦       +---capabilities
+¦   ¦   ¦   ¦       +---controls
+¦   ¦   ¦   ¦       +---csm
+¦   ¦   ¦   ¦       +---curves
+¦   ¦   ¦   ¦       +---effects
+¦   ¦   ¦   ¦       +---environments
+¦   ¦   ¦   ¦       +---exporters
+¦   ¦   ¦   ¦       +---geometries
+¦   ¦   ¦   ¦       +---helpers
+¦   ¦   ¦   ¦       +---interactive
+¦   ¦   ¦   ¦       +---libs
+¦   ¦   ¦   ¦       +---lighting
+¦   ¦   ¦   ¦       +---lights
+¦   ¦   ¦   ¦       +---lines
+¦   ¦   ¦   ¦       ¦   +---webgpu
+¦   ¦   ¦   ¦       +---loaders
+¦   ¦   ¦   ¦       +---materials
+¦   ¦   ¦   ¦       +---math
+¦   ¦   ¦   ¦       +---misc
+¦   ¦   ¦   ¦       +---modifiers
+¦   ¦   ¦   ¦       +---objects
+¦   ¦   ¦   ¦       +---physics
+¦   ¦   ¦   ¦       +---postprocessing
+¦   ¦   ¦   ¦       +---renderers
+¦   ¦   ¦   ¦       +---shaders
+¦   ¦   ¦   ¦       +---textures
+¦   ¦   ¦   ¦       +---transpiler
+¦   ¦   ¦   ¦       +---tsl
+¦   ¦   ¦   ¦       ¦   +---display
+¦   ¦   ¦   ¦       ¦   +---lighting
+¦   ¦   ¦   ¦       ¦   +---math
+¦   ¦   ¦   ¦       ¦   +---shadows
+¦   ¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦   ¦       +---utils
+¦   ¦   ¦   ¦       +---webxr
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---animation
+¦   ¦   ¦       ¦   +---tracks
+¦   ¦   ¦       +---audio
+¦   ¦   ¦       +---cameras
+¦   ¦   ¦       +---core
+¦   ¦   ¦       +---extras
+¦   ¦   ¦       ¦   +---core
+¦   ¦   ¦       ¦   +---curves
+¦   ¦   ¦       +---geometries
+¦   ¦   ¦       +---helpers
+¦   ¦   ¦       +---lights
+¦   ¦   ¦       ¦   +---webgpu
+¦   ¦   ¦       +---loaders
+¦   ¦   ¦       ¦   +---nodes
+¦   ¦   ¦       +---materials
+¦   ¦   ¦       ¦   +---nodes
+¦   ¦   ¦       ¦       +---manager
+¦   ¦   ¦       +---math
+¦   ¦   ¦       ¦   +---interpolants
+¦   ¦   ¦       +---nodes
+¦   ¦   ¦       ¦   +---accessors
+¦   ¦   ¦       ¦   +---code
+¦   ¦   ¦       ¦   +---core
+¦   ¦   ¦       ¦   +---display
+¦   ¦   ¦       ¦   +---fog
+¦   ¦   ¦       ¦   +---functions
+¦   ¦   ¦       ¦   ¦   +---BSDF
+¦   ¦   ¦       ¦   ¦   +---material
+¦   ¦   ¦       ¦   +---geometry
+¦   ¦   ¦       ¦   +---gpgpu
+¦   ¦   ¦       ¦   +---lighting
+¦   ¦   ¦       ¦   +---materialx
+¦   ¦   ¦       ¦   ¦   +---lib
+¦   ¦   ¦       ¦   +---math
+¦   ¦   ¦       ¦   +---parsers
+¦   ¦   ¦       ¦   +---pmrem
+¦   ¦   ¦       ¦   +---procedural
+¦   ¦   ¦       ¦   +---shapes
+¦   ¦   ¦       ¦   +---tsl
+¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦       +---objects
+¦   ¦   ¦       +---renderers
+¦   ¦   ¦       ¦   +---common
+¦   ¦   ¦       ¦   ¦   +---extras
+¦   ¦   ¦       ¦   ¦   +---nodes
+¦   ¦   ¦       ¦   +---shaders
+¦   ¦   ¦       ¦   +---webgl
+¦   ¦   ¦       ¦   +---webgl-fallback
+¦   ¦   ¦       ¦   +---webgpu
+¦   ¦   ¦       ¦   ¦   +---nodes
+¦   ¦   ¦       ¦   ¦   +---utils
+¦   ¦   ¦       ¦   +---webxr
+¦   ¦   ¦       +---scenes
+¦   ¦   ¦       +---textures
+¦   ¦   +---webxr
+¦   +---@use-gesture
+¦   ¦   +---core
+¦   ¦   ¦   +---actions
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---declarations
+¦   ¦   ¦   ¦       +---src
+¦   ¦   ¦   ¦           +---config
+¦   ¦   ¦   ¦           +---engines
+¦   ¦   ¦   ¦           +---types
+¦   ¦   ¦   ¦           +---utils
+¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   +---engines
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---utils
+¦   ¦   ¦       +---dist
+¦   ¦   +---react
+¦   ¦       +---dist
+¦   ¦       ¦   +---declarations
+¦   ¦       ¦       +---src
+¦   ¦       +---src
+¦   +---@vitejs
+¦   ¦   +---plugin-react
+¦   ¦       +---dist
+¦   +---@webgpu
+¦   ¦   +---types
+¦   ¦       +---dist
+¦   +---accepts
+¦   +---acorn
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   +---acorn-jsx
+¦   +---ajv
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦   ¦   +---compile
+¦   ¦   ¦   +---dot
+¦   ¦   ¦   +---dotjs
+¦   ¦   ¦   +---refs
+¦   ¦   +---scripts
+¦   +---ansi-styles
+¦   +---argparse
+¦   ¦   +---lib
+¦   +---autoprefixer
+¦   ¦   +---bin
+¦   ¦   +---data
+¦   ¦   +---lib
+¦   ¦       +---hacks
+¦   +---balanced-match
+¦   ¦   +---.github
+¦   +---base64-js
+¦   +---bidi-js
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---data
+¦   ¦       +---util
+¦   +---body-parser
+¦   ¦   +---lib
+¦   ¦       +---types
+¦   +---brace-expansion
+¦   +---browserslist
+¦   +---buffer
+¦   +---bytes
+¦   +---call-bind-apply-helpers
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---call-bound
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---callsites
+¦   +---camera-controls
+¦   ¦   +---dist
+¦   ¦       +---utils
+¦   +---caniuse-lite
+¦   ¦   +---data
+¦   ¦   ¦   +---features
+¦   ¦   ¦   +---regions
+¦   ¦   +---dist
+¦   ¦       +---lib
+¦   ¦       +---unpacker
+¦   +---chalk
+¦   ¦   +---source
+¦   +---color-convert
+¦   +---color-name
+¦   +---concat-map
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---content-disposition
+¦   +---content-type
+¦   +---convert-source-map
+¦   +---cookie
+¦   +---cookie-signature
+¦   +---cors
+¦   ¦   +---lib
+¦   +---cross-env
+¦   ¦   +---src
+¦   ¦       +---bin
+¦   +---cross-spawn
+¦   ¦   +---lib
+¦   ¦       +---util
+¦   +---csstype
+¦   +---debug
+¦   ¦   +---src
+¦   +---deep-is
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---depd
+¦   ¦   +---lib
+¦   ¦       +---browser
+¦   +---detect-gpu
+¦   ¦   +---dist
+¦   ¦       +---benchmarks
+¦   ¦       +---example
+¦   ¦       +---rollup
+¦   ¦       +---src
+¦   ¦           +---internal
+¦   +---draco3d
+¦   +---dunder-proto
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---ee-first
+¦   +---electron-to-chromium
+¦   +---encodeurl
+¦   +---es-define-property
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---es-errors
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---es-object-atoms
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---esbuild
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   +---escalade
+¦   ¦   +---dist
+¦   ¦   +---sync
+¦   +---escape-html
+¦   +---escape-string-regexp
+¦   +---eslint
+¦   ¦   +---bin
+¦   ¦   +---conf
+¦   ¦   +---lib
+¦   ¦   ¦   +---cli-engine
+¦   ¦   ¦   ¦   +---formatters
+¦   ¦   ¦   +---config
+¦   ¦   ¦   +---eslint
+¦   ¦   ¦   +---languages
+¦   ¦   ¦   ¦   +---js
+¦   ¦   ¦   ¦       +---source-code
+¦   ¦   ¦   ¦           +---token-store
+¦   ¦   ¦   +---linter
+¦   ¦   ¦   ¦   +---code-path-analysis
+¦   ¦   ¦   +---rule-tester
+¦   ¦   ¦   +---rules
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦       +---unicode
+¦   ¦   ¦   +---services
+¦   ¦   ¦   +---shared
+¦   ¦   ¦   +---types
+¦   ¦   +---messages
+¦   +---eslint-plugin-react-hooks
+¦   ¦   +---cjs
+¦   +---eslint-plugin-react-refresh
+¦   +---eslint-scope
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---eslint-visitor-keys
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---espree
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---esquery
+¦   ¦   +---dist
+¦   +---esrecurse
+¦   +---estraverse
+¦   +---esutils
+¦   ¦   +---lib
+¦   +---etag
+¦   +---express
+¦   ¦   +---lib
+¦   +---fast-deep-equal
+¦   ¦   +---es6
+¦   +---fast-json-stable-stringify
+¦   ¦   +---.github
+¦   ¦   +---benchmark
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---fast-levenshtein
+¦   +---fdir
+¦   ¦   +---dist
+¦   ¦       +---api
+¦   ¦       ¦   +---functions
+¦   ¦       +---builder
+¦   +---fflate
+¦   ¦   +---esm
+¦   ¦   +---lib
+¦   ¦   +---umd
+¦   +---file-entry-cache
+¦   +---finalhandler
+¦   +---find-up
+¦   +---flat-cache
+¦   ¦   +---src
+¦   +---flatted
+¦   ¦   +---cjs
+¦   ¦   +---esm
+¦   ¦   +---php
+¦   ¦   +---python
+¦   ¦   +---types
+¦   +---forwarded
+¦   +---fraction.js
+¦   +---fresh
+¦   +---function-bind
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---gensync
+¦   ¦   +---test
+¦   +---get-intrinsic
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---get-proto
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---glob-parent
+¦   +---globals
+¦   +---glsl-noise
+¦   ¦   +---classic
+¦   ¦   +---periodic
+¦   ¦   +---simplex
+¦   +---gopd
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---has-flag
+¦   +---has-symbols
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   ¦       +---shams
+¦   +---hasown
+¦   ¦   +---.github
+¦   +---hls.js
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦       +---controller
+¦   ¦       +---crypt
+¦   ¦       +---demux
+¦   ¦       ¦   +---audio
+¦   ¦       ¦   +---video
+¦   ¦       +---loader
+¦   ¦       +---polyfills
+¦   ¦       +---remux
+¦   ¦       +---types
+¦   ¦       +---utils
+¦   +---http-errors
+¦   ¦   +---node_modules
+¦   ¦       +---statuses
+¦   +---iconv-lite
+¦   ¦   +---.github
+¦   ¦   +---.idea
+¦   ¦   ¦   +---codeStyles
+¦   ¦   ¦   +---inspectionProfiles
+¦   ¦   +---encodings
+¦   ¦   ¦   +---tables
+¦   ¦   +---lib
+¦   +---ieee754
+¦   +---ignore
+¦   +---immediate
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---import-fresh
+¦   +---imurmurhash
+¦   +---inherits
+¦   +---ipaddr.js
+¦   ¦   +---lib
+¦   +---is-extglob
+¦   +---is-glob
+¦   +---is-promise
+¦   +---isexe
+¦   ¦   +---test
+¦   +---its-fine
+¦   ¦   +---dist
+¦   +---js-tokens
+¦   +---js-yaml
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦       +---schema
+¦   ¦       +---type
+¦   +---jsesc
+¦   ¦   +---bin
+¦   ¦   +---man
+¦   +---json-buffer
+¦   ¦   +---test
+¦   +---json-schema-traverse
+¦   ¦   +---spec
+¦   ¦       +---fixtures
+¦   +---json-stable-stringify-without-jsonify
+¦   ¦   +---example
+¦   ¦   +---test
+¦   +---json5
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---keyv
+¦   ¦   +---src
+¦   +---levn
+¦   ¦   +---lib
+¦   +---lie
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---locate-path
+¦   +---lodash.merge
+¦   +---lru-cache
+¦   +---maath
+¦   ¦   +---buffer
+¦   ¦   ¦   +---dist
+¦   ¦   +---dist
+¦   ¦   ¦   +---declarations
+¦   ¦   ¦       +---src
+¦   ¦   ¦           +---random
+¦   ¦   +---easing
+¦   ¦   ¦   +---dist
+¦   ¦   +---geometry
+¦   ¦   ¦   +---dist
+¦   ¦   +---matrix
+¦   ¦   ¦   +---dist
+¦   ¦   +---misc
+¦   ¦   ¦   +---dist
+¦   ¦   +---random
+¦   ¦   ¦   +---dist
+¦   ¦   +---three
+¦   ¦   ¦   +---dist
+¦   ¦   +---triangle
+¦   ¦   ¦   +---dist
+¦   ¦   +---vector2
+¦   ¦   ¦   +---dist
+¦   ¦   +---vector3
+¦   ¦       +---dist
+¦   +---math-intrinsics
+¦   ¦   +---.github
+¦   ¦   +---constants
+¦   ¦   +---test
+¦   +---media-typer
+¦   +---merge-descriptors
+¦   +---meshline
+¦   ¦   +---dist
+¦   +---meshoptimizer
+¦   +---mime-db
+¦   +---mime-types
+¦   +---minimatch
+¦   +---ms
+¦   +---nanoid
+¦   ¦   +---async
+¦   ¦   +---bin
+¦   ¦   +---non-secure
+¦   ¦   +---url-alphabet
+¦   +---natural-compare
+¦   +---negotiator
+¦   ¦   +---lib
+¦   +---node-releases
+¦   ¦   +---data
+¦   ¦       +---processed
+¦   ¦       +---release-schedule
+¦   +---normalize-range
+¦   +---object-assign
+¦   +---object-inspect
+¦   ¦   +---.github
+¦   ¦   +---example
+¦   ¦   +---test
+¦   ¦       +---browser
+¦   +---on-finished
+¦   +---once
+¦   +---optionator
+¦   ¦   +---lib
+¦   +---p-limit
+¦   +---p-locate
+¦   +---parent-module
+¦   +---parseurl
+¦   +---path-exists
+¦   +---path-key
+¦   +---path-to-regexp
+¦   ¦   +---dist
+¦   +---picocolors
+¦   +---picomatch
+¦   ¦   +---lib
+¦   +---postcss
+¦   ¦   +---lib
+¦   +---postcss-value-parser
+¦   ¦   +---lib
+¦   +---potpack
+¦   +---prelude-ls
+¦   ¦   +---lib
+¦   +---promise-worker-transferable
+¦   ¦   +---dist
+¦   +---proxy-addr
+¦   +---punycode
+¦   +---qs
+¦   ¦   +---.github
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦   +---test
+¦   +---range-parser
+¦   +---raw-body
+¦   +---react
+¦   ¦   +---cjs
+¦   +---react-dom
+¦   ¦   +---cjs
+¦   +---react-reconciler
+¦   ¦   +---cjs
+¦   ¦   +---node_modules
+¦   ¦       +---scheduler
+¦   ¦           +---cjs
+¦   +---react-refresh
+¦   ¦   +---cjs
+¦   +---react-use-measure
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   +---require-from-string
+¦   +---resolve-from
+¦   +---rollup
+¦   ¦   +---dist
+¦   ¦       +---bin
+¦   ¦       +---es
+¦   ¦       ¦   +---shared
+¦   ¦       +---shared
+¦   +---router
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦       +---is-promise
+¦   +---safe-buffer
+¦   +---safer-buffer
+¦   +---scheduler
+¦   ¦   +---cjs
+¦   +---semver
+¦   ¦   +---bin
+¦   +---send
+¦   +---serve-static
+¦   +---setprototypeof
+¦   ¦   +---test
+¦   +---shebang-command
+¦   +---shebang-regex
+¦   +---side-channel
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---side-channel-list
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---side-channel-map
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---side-channel-weakmap
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---source-map-js
+¦   ¦   +---lib
+¦   +---stats-gl
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦       +---three
+¦   ¦           +---build
+¦   ¦           +---examples
+¦   ¦           ¦   +---fonts
+¦   ¦           ¦   ¦   +---droid
+¦   ¦           ¦   ¦   +---ttf
+¦   ¦           ¦   +---jsm
+¦   ¦           ¦       +---animation
+¦   ¦           ¦       +---capabilities
+¦   ¦           ¦       +---controls
+¦   ¦           ¦       +---csm
+¦   ¦           ¦       +---curves
+¦   ¦           ¦       +---effects
+¦   ¦           ¦       +---environments
+¦   ¦           ¦       +---exporters
+¦   ¦           ¦       +---geometries
+¦   ¦           ¦       +---helpers
+¦   ¦           ¦       +---interactive
+¦   ¦           ¦       +---libs
+¦   ¦           ¦       ¦   +---basis
+¦   ¦           ¦       ¦   +---draco
+¦   ¦           ¦       ¦   ¦   +---gltf
+¦   ¦           ¦       ¦   +---rhino3dm
+¦   ¦           ¦       +---lighting
+¦   ¦           ¦       +---lights
+¦   ¦           ¦       +---lines
+¦   ¦           ¦       ¦   +---webgpu
+¦   ¦           ¦       +---loaders
+¦   ¦           ¦       ¦   +---lwo
+¦   ¦           ¦       +---materials
+¦   ¦           ¦       +---math
+¦   ¦           ¦       +---misc
+¦   ¦           ¦       +---modifiers
+¦   ¦           ¦       +---objects
+¦   ¦           ¦       +---offscreen
+¦   ¦           ¦       +---physics
+¦   ¦           ¦       +---postprocessing
+¦   ¦           ¦       +---renderers
+¦   ¦           ¦       +---shaders
+¦   ¦           ¦       +---textures
+¦   ¦           ¦       +---transpiler
+¦   ¦           ¦       +---tsl
+¦   ¦           ¦       ¦   +---display
+¦   ¦           ¦       ¦   +---lighting
+¦   ¦           ¦       +---utils
+¦   ¦           ¦       +---webxr
+¦   ¦           +---src
+¦   ¦               +---animation
+¦   ¦               ¦   +---tracks
+¦   ¦               +---audio
+¦   ¦               +---cameras
+¦   ¦               +---core
+¦   ¦               +---extras
+¦   ¦               ¦   +---core
+¦   ¦               ¦   +---curves
+¦   ¦               +---geometries
+¦   ¦               +---helpers
+¦   ¦               +---lights
+¦   ¦               ¦   +---webgpu
+¦   ¦               +---loaders
+¦   ¦               ¦   +---nodes
+¦   ¦               +---materials
+¦   ¦               ¦   +---nodes
+¦   ¦               ¦       +---manager
+¦   ¦               +---math
+¦   ¦               ¦   +---interpolants
+¦   ¦               +---nodes
+¦   ¦               ¦   +---accessors
+¦   ¦               ¦   +---code
+¦   ¦               ¦   +---core
+¦   ¦               ¦   +---display
+¦   ¦               ¦   +---fog
+¦   ¦               ¦   +---functions
+¦   ¦               ¦   ¦   +---BSDF
+¦   ¦               ¦   ¦   +---material
+¦   ¦               ¦   +---geometry
+¦   ¦               ¦   +---gpgpu
+¦   ¦               ¦   +---lighting
+¦   ¦               ¦   +---materialx
+¦   ¦               ¦   ¦   +---lib
+¦   ¦               ¦   +---math
+¦   ¦               ¦   +---parsers
+¦   ¦               ¦   +---pmrem
+¦   ¦               ¦   +---procedural
+¦   ¦               ¦   +---tsl
+¦   ¦               ¦   +---utils
+¦   ¦               +---objects
+¦   ¦               +---renderers
+¦   ¦               ¦   +---common
+¦   ¦               ¦   ¦   +---extras
+¦   ¦               ¦   ¦   +---nodes
+¦   ¦               ¦   +---shaders
+¦   ¦               ¦   ¦   +---ShaderChunk
+¦   ¦               ¦   ¦   +---ShaderLib
+¦   ¦               ¦   +---webgl
+¦   ¦               ¦   +---webgl-fallback
+¦   ¦               ¦   ¦   +---nodes
+¦   ¦               ¦   ¦   +---utils
+¦   ¦               ¦   +---webgpu
+¦   ¦               ¦   ¦   +---nodes
+¦   ¦               ¦   ¦   +---utils
+¦   ¦               ¦   +---webxr
+¦   ¦               +---scenes
+¦   ¦               +---textures
+¦   +---stats.js
+¦   ¦   +---build
+¦   ¦   +---src
+¦   +---statuses
+¦   +---strip-json-comments
+¦   +---supports-color
+¦   +---suspend-react
+¦   +---tailwindcss
+¦   ¦   +---dist
+¦   +---three
+¦   ¦   +---build
+¦   ¦   +---examples
+¦   ¦   ¦   +---fonts
+¦   ¦   ¦   ¦   +---droid
+¦   ¦   ¦   ¦   +---ttf
+¦   ¦   ¦   +---jsm
+¦   ¦   ¦       +---animation
+¦   ¦   ¦       +---capabilities
+¦   ¦   ¦       +---controls
+¦   ¦   ¦       +---csm
+¦   ¦   ¦       +---curves
+¦   ¦   ¦       +---effects
+¦   ¦   ¦       +---environments
+¦   ¦   ¦       +---exporters
+¦   ¦   ¦       +---geometries
+¦   ¦   ¦       +---helpers
+¦   ¦   ¦       +---interactive
+¦   ¦   ¦       +---libs
+¦   ¦   ¦       ¦   +---basis
+¦   ¦   ¦       ¦   +---draco
+¦   ¦   ¦       ¦   ¦   +---gltf
+¦   ¦   ¦       ¦   +---rhino3dm
+¦   ¦   ¦       +---lighting
+¦   ¦   ¦       +---lights
+¦   ¦   ¦       +---lines
+¦   ¦   ¦       ¦   +---webgpu
+¦   ¦   ¦       +---loaders
+¦   ¦   ¦       ¦   +---lwo
+¦   ¦   ¦       +---materials
+¦   ¦   ¦       +---math
+¦   ¦   ¦       +---misc
+¦   ¦   ¦       +---modifiers
+¦   ¦   ¦       +---objects
+¦   ¦   ¦       +---offscreen
+¦   ¦   ¦       +---physics
+¦   ¦   ¦       +---postprocessing
+¦   ¦   ¦       +---renderers
+¦   ¦   ¦       +---shaders
+¦   ¦   ¦       +---textures
+¦   ¦   ¦       +---transpiler
+¦   ¦   ¦       +---tsl
+¦   ¦   ¦       ¦   +---display
+¦   ¦   ¦       ¦   +---lighting
+¦   ¦   ¦       ¦   +---math
+¦   ¦   ¦       ¦   +---shadows
+¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦       +---utils
+¦   ¦   ¦       +---webxr
+¦   ¦   +---src
+¦   ¦       +---animation
+¦   ¦       ¦   +---tracks
+¦   ¦       +---audio
+¦   ¦       +---cameras
+¦   ¦       +---core
+¦   ¦       +---extras
+¦   ¦       ¦   +---core
+¦   ¦       ¦   +---curves
+¦   ¦       ¦   +---lib
+¦   ¦       +---geometries
+¦   ¦       +---helpers
+¦   ¦       +---lights
+¦   ¦       ¦   +---webgpu
+¦   ¦       +---loaders
+¦   ¦       ¦   +---nodes
+¦   ¦       +---materials
+¦   ¦       ¦   +---nodes
+¦   ¦       ¦       +---manager
+¦   ¦       +---math
+¦   ¦       ¦   +---interpolants
+¦   ¦       +---nodes
+¦   ¦       ¦   +---accessors
+¦   ¦       ¦   +---code
+¦   ¦       ¦   +---core
+¦   ¦       ¦   +---display
+¦   ¦       ¦   +---fog
+¦   ¦       ¦   +---functions
+¦   ¦       ¦   ¦   +---BSDF
+¦   ¦       ¦   ¦   +---material
+¦   ¦       ¦   +---geometry
+¦   ¦       ¦   +---gpgpu
+¦   ¦       ¦   +---lighting
+¦   ¦       ¦   +---materialx
+¦   ¦       ¦   ¦   +---lib
+¦   ¦       ¦   +---math
+¦   ¦       ¦   +---parsers
+¦   ¦       ¦   +---pmrem
+¦   ¦       ¦   +---procedural
+¦   ¦       ¦   +---shapes
+¦   ¦       ¦   +---tsl
+¦   ¦       ¦   +---utils
+¦   ¦       +---objects
+¦   ¦       +---renderers
+¦   ¦       ¦   +---common
+¦   ¦       ¦   ¦   +---extras
+¦   ¦       ¦   ¦   +---nodes
+¦   ¦       ¦   +---shaders
+¦   ¦       ¦   ¦   +---ShaderChunk
+¦   ¦       ¦   ¦   +---ShaderLib
+¦   ¦       ¦   +---webgl
+¦   ¦       ¦   +---webgl-fallback
+¦   ¦       ¦   ¦   +---nodes
+¦   ¦       ¦   ¦   +---utils
+¦   ¦       ¦   +---webgpu
+¦   ¦       ¦   ¦   +---nodes
+¦   ¦       ¦   ¦   +---utils
+¦   ¦       ¦   +---webxr
+¦   ¦       +---scenes
+¦   ¦       +---textures
+¦   +---three-mesh-bvh
+¦   ¦   +---build
+¦   ¦   +---src
+¦   ¦       +---core
+¦   ¦       ¦   +---build
+¦   ¦       ¦   +---cast
+¦   ¦       ¦   +---utils
+¦   ¦       +---debug
+¦   ¦       +---gpu
+¦   ¦       ¦   +---glsl
+¦   ¦       +---math
+¦   ¦       +---objects
+¦   ¦       +---utils
+¦   ¦       +---workers
+¦   ¦           +---utils
+¦   +---three-stdlib
+¦   ¦   +---animation
+¦   ¦   +---cameras
+¦   ¦   +---controls
+¦   ¦   ¦   +---experimental
+¦   ¦   +---csm
+¦   ¦   +---curves
+¦   ¦   +---deprecated
+¦   ¦   +---effects
+¦   ¦   +---environments
+¦   ¦   +---exporters
+¦   ¦   +---geometries
+¦   ¦   +---helpers
+¦   ¦   +---interactive
+¦   ¦   +---libs
+¦   ¦   +---lights
+¦   ¦   +---lines
+¦   ¦   +---loaders
+¦   ¦   ¦   +---lwo
+¦   ¦   +---math
+¦   ¦   +---misc
+¦   ¦   +---modifiers
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---fflate
+¦   ¦   ¦       +---esm
+¦   ¦   ¦       +---lib
+¦   ¦   ¦       +---umd
+¦   ¦   +---objects
+¦   ¦   +---physics
+¦   ¦   +---postprocessing
+¦   ¦   +---renderers
+¦   ¦   +---shaders
+¦   ¦   +---textures
+¦   ¦   +---types
+¦   ¦   +---utils
+¦   ¦   +---webxr
+¦   ¦   +---_polyfill
+¦   +---tinyglobby
+¦   ¦   +---dist
+¦   +---toidentifier
+¦   +---troika-three-text
+¦   ¦   +---dist
+¦   ¦   +---libs
+¦   ¦   +---src
+¦   +---troika-three-utils
+¦   ¦   +---dist
+¦   ¦   +---docs
+¦   ¦   +---src
+¦   +---troika-worker-utils
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦   +---__tests__
+¦   +---tunnel-rat
+¦   ¦   +---.changeset
+¦   ¦   +---.github
+¦   ¦   ¦   +---workflows
+¦   ¦   +---dist
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---zustand
+¦   ¦   ¦       +---esm
+¦   ¦   ¦       ¦   +---middleware
+¦   ¦   ¦       ¦   +---react
+¦   ¦   ¦       ¦   +---vanilla
+¦   ¦   ¦       +---middleware
+¦   ¦   ¦       +---react
+¦   ¦   ¦       +---system
+¦   ¦   ¦       ¦   +---middleware
+¦   ¦   ¦       ¦   +---react
+¦   ¦   ¦       ¦   +---vanilla
+¦   ¦   ¦       +---ts3.4
+¦   ¦   ¦       ¦   +---esm
+¦   ¦   ¦       ¦   ¦   +---middleware
+¦   ¦   ¦       ¦   ¦   +---react
+¦   ¦   ¦       ¦   ¦   +---vanilla
+¦   ¦   ¦       ¦   +---middleware
+¦   ¦   ¦       ¦   +---react
+¦   ¦   ¦       ¦   +---vanilla
+¦   ¦   ¦       +---umd
+¦   ¦   ¦       ¦   +---middleware
+¦   ¦   ¦       ¦   +---react
+¦   ¦   ¦       ¦   +---vanilla
+¦   ¦   ¦       +---vanilla
+¦   ¦   +---src
+¦   ¦   +---test
+¦   +---type-check
+¦   ¦   +---lib
+¦   +---type-is
+¦   +---unpipe
+¦   +---update-browserslist-db
+¦   +---uri-js
+¦   ¦   +---dist
+¦   ¦       +---es5
+¦   ¦       +---esnext
+¦   ¦           +---schemes
+¦   +---use-sync-external-store
+¦   ¦   +---cjs
+¦   ¦   ¦   +---use-sync-external-store-shim
+¦   ¦   +---shim
+¦   +---utility-types
+¦   ¦   +---dist
+¦   +---vary
+¦   +---vite
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   ¦   +---client
+¦   ¦   ¦   +---node
+¦   ¦   ¦       +---chunks
+¦   ¦   +---misc
+¦   ¦   +---types
+¦   ¦       +---internal
+¦   +---webgl-constants
+¦   ¦   +---dist
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---types
+¦   ¦   +---src
+¦   +---webgl-sdf-generator
+¦   ¦   +---dist
+¦   +---which
+¦   ¦   +---bin
+¦   +---word-wrap
+¦   +---wrappy
+¦   +---yallist
+¦   +---yocto-queue
+¦   +---zustand
+¦       +---esm
+¦       ¦   +---middleware
+¦       ¦   +---react
+¦       ¦   +---vanilla
+¦       +---middleware
+¦       +---react
+¦       +---vanilla
++---public
++---src
+    +---assets

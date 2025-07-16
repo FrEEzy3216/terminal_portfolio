@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+body {
+  margin: 0;
+  background-color: var(--bg-color, #0a0f0d);
+  color: var(--text-color, #00ff88);
+  font-family: 'Fira Code', monospace;
+  transition: background 0.5s, color 0.5s;
+}
+
+:root {
+  --bg-color: #0a0f0d;
+  --text-color: #00ff88;
+  --accent-color: #00ff88;
+}
+
+body.cyberpunk {
+  --bg-color: #0d001a;
+  --text-color: #ff00ff;
+  --accent-color: #ff00ff;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.profile-card {
+  background-color: #111;
+  padding: 20px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--text-color);
+  box-shadow: inset -1px 0 0 var(--accent-color);
+}
+
+.profile-card h1 {
+  margin: 10px 0 0 0;
+  font-size: 24px;
+}
+
+.profile-card p {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #ccc;
+}
+
+.terminal {
+  background-color: #000;
+  padding: 40px 20px;
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  overflow: hidden;
+  box-shadow: inset 1px 0 0 var(--accent-color);
+}
+
+.terminal-output {
+  flex: 1;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  margin-bottom: 10px;
+  padding-right: 5px;
+  scrollbar-width: thin;
+}
+
+/* Typing animation */
+.typing {
+  border-right: 2px solid var(--accent-color);
+  animation: blink 0.8s step-end infinite;
+}
+
+@keyframes blink {
+  from, to { border-color: transparent; }
+  50% { border-color: var(--accent-color); }
+}
+
+.terminal-input {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.terminal-input span {
+  color: var(--accent-color);
+}
+
+.terminal-input input {
+  background-color: transparent;
+  border: none;
+  color: var(--accent-color);
+  font-family: inherit;
+  font-size: 16px;
+  width: 100%;
+  outline: none;
+}
+
+.command-buttons {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.command-buttons button, .theme-toggle {
+  background-color: #111;
+  color: var(--accent-color);
+  border: 1px solid var(--accent-color);
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-family: 'Fira Code', monospace;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.command-buttons button:hover, .theme-toggle:hover {
+  background-color: var(--accent-color);
+  color: #111;
+}
+
+.theme-toggle {
+  margin-top: 15px;
+  align-self: flex-end;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .profile-card, .terminal {
+    flex: none;
+    width: 100%;
+    box-shadow: none;
+  }
+}
